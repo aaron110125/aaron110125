@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Aaron D'Costa
+<h1 align="center">Hi 👋, Hi, I’m Aaron D'Costa</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron110125&label=Profile%20views&color=0e75b6&style=flat" alt="aaron110125" /> </p>
+
+
 - 👀 I’m interested in Network Automation and Development
 - 🌱 I’m currently learning Native AWS, Python Devlopment
 - 💞️ I’m looking to collaborate on any projects related to Network and Enhancement of Software Defined Networking
