@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Native AWS, Python Devlopment
 - 💞️ I’m looking to collaborate on any projects related to Network and Enhancement of Software Defined Networking
 - 📫 Languages and Tools
-arduino aws c cplusplus css3 docker git hive linux matlab mssql mysql python sqlite 
+arduino aws c cplusplus css3 docker git  linux matlab mssql mysql python sqlite 
 
 
 <!---
