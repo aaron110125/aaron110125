@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Native AWS, Python Devlopment
 - 💞️ I’m looking to collaborate on any projects related to Network and Enhancement of Software Defined Networking
 - 📫 Languages and Tools
-arduino aws c cplusplus css3 docker git  linux matlab mssql mysql python sqlite 
+ansible aws c cplusplus  docker git  linux matlab mysql python  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron110125&label=Profile%20views&color=0e75b6&style=flat" alt="aaron110125" /> </p>
 <!---
