@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, Hi, I’m Aaron D'Costa</h2>
+<h2 align="center">Hi 👋, I’m Aaron D'Costa</h2>
 
 
 
