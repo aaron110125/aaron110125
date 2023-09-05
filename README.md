@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in Network Automation and Development
-- 🌱 I’m currently learning Native AWS, Python Devlopment
+- 🌱 I’m currently learning Native AWS, Python Development
 - 💞️ I’m looking to collaborate on any projects related to Network and Enhancement of Software Defined Networking
 - 📫 Languages and Tools
 ansible aws c cplusplus  docker git  linux matlab mysql python  
